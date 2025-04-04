@@ -8,6 +8,7 @@ class SonarAnalysisDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		throw new UnsupportedOperationException("contextLoads() cannot be performed because the test is not implemented yet.");
 	}
 
 }
