@@ -16,11 +16,6 @@ class SonarAnalysisDemoApplicationTests {
      */
     @Test
     void contextLoads() {
-        // Aquí se podría agregar código para verificar que los componentes de Spring Boot se inician correctamente.
-        // Si se necesita simular que la prueba no está implementada, se podría lanzar la excepción a continuación:
-        // throw new UnsupportedOperationException("Test not implemented yet");
-
-        // Si se desea, en el futuro, se puede implementar la lógica de prueba específica para la carga del contexto.
+        // Este método puede ser completado con pruebas de contexto o lanzando una excepción si aún no se implementa.
     }
-
 }
