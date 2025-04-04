@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 class SonarAnalysisDemoApplicationTests {
     @Test
     void contextLoads() { 
-        contextLoads();
+        throw new UnsupportedOperationException("contextLoads() cannot be performed because ...");
     }
 }
