@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootTest
 class SonarAnalysisDemoApplicationTests {
-
     @Test
-    void contextLoads() {
-
+    void contextLoads() { // default implementation ignored
     }
 }
